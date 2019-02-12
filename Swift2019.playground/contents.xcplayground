@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Error'/>
+        <page name='Class'/>
+        <page name='Class and Enum'/>
+        <page name='Protocol (Simple)'/>
+        <page name='computed Property'/>
+        <page name='clousure'/>
+        <page name='Do try  catch'/>
+        <page name='Extension'/>
+        <page name='optionals 1'/>
+        <page name='Generics'/>
+        <page name='Class Struct V.Type, R.Type'/>
+        <page name='Protocol (Advance)'/>
+        <page name='optionals 2'/>
+        <page name='Recursividad'/>
+        <page name='Error 2'/>
+        <page name='Enum Error Optional'/>
+        <page name='Map, filter, enumerated'/>
+        <page name='swapAt Hacker Rank'/>
+        <page name='2D Array.  Hacker Ranck'/>
+        <page name='Map 2'/>
+    </pages>
+</playground>
