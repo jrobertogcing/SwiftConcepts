@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Foundation
 
 enum direccion {
@@ -37,22 +35,12 @@ class Animal {
 }
 
 
-
-
-
-// call Class
-
 var someAnimal = Animal(size: 40)
 var anotherAnimal = someAnimal
 
 anotherAnimal.size = 1000
 
 someAnimal.move(to: .arriba)
-
-print(someAnimal.size)
-
-
-
 
 print(someAnimal.size)
 print(anotherAnimal.size)

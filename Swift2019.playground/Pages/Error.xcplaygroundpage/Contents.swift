@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Foundation
 
 enum errorData : Error{
@@ -10,8 +8,6 @@ enum errorData : Error{
 
 func move ()  throws {
 
-    _ = 0
-    _ = 1
     throw errorData.errorOne
 }
 

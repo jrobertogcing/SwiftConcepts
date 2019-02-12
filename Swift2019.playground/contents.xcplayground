@@ -2,8 +2,8 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='Error'/>
-        <page name='Class'/>
-        <page name='Class and Enum'/>
+        <page name='Class (override)'/>
+        <page name='Class and Enum (R.Type VType)'/>
         <page name='Protocol (Simple)'/>
         <page name='computed Property'/>
         <page name='clousure'/>
@@ -13,13 +13,12 @@
         <page name='Generics'/>
         <page name='Class Struct V.Type, R.Type'/>
         <page name='Protocol (Advance)'/>
-        <page name='optionals 2'/>
+        <page name='optionals 2 (chaining)'/>
         <page name='Recursividad'/>
-        <page name='Error 2'/>
+        <page name='Error 2 (do try catch)'/>
         <page name='Enum Error Optional'/>
-        <page name='Map, filter, enumerated'/>
+        <page name='Map, filter, enumerated, ZIP'/>
         <page name='swapAt Hacker Rank'/>
         <page name='2D Array.  Hacker Ranck'/>
-        <page name='Map 2'/>
     </pages>
 </playground>

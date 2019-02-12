@@ -60,20 +60,5 @@ print(avanzaIntelli)
 
 
 
-// fuction simple
-
-
-func perro(_ ladrido: Int) -> (Int) {
-
-    print("guau guau")
-    let a = 44
-    return a
-}
-
-var result = perro(3)
-
-
-
-print(result)
 
 

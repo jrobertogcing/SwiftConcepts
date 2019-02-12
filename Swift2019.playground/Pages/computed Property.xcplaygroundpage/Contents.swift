@@ -21,8 +21,6 @@ var salary : Int {
 
 }
 
-//salary = 200
-
 //str
 // si le asignas un valor a salary  toma lo de SET sino le das ningun valor toma lo de GET
 salary = 1000
