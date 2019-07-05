@@ -2,7 +2,9 @@
 
 import Foundation
 
-var str : String? = "gato"
+var str : String?
+
+str = "valor"
 
 if let value = str {
 

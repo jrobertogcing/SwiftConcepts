@@ -7,7 +7,7 @@ class Robot {
     var size: Int
     var arms: Int
     var name: String
-    
+    var homePosition : Int
     init(size: Int, arms: Int, name: String) {
         
         self.size = size

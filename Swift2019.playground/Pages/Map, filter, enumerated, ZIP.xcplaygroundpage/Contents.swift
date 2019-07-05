@@ -9,10 +9,10 @@ let arr = [Int](0...10)
 
 let strOne = "Roberto"
 // Dividir string en un arrar por letra
-let arrOne = strOne.compactMap{ $0 }
-
-print(arrOne)
-
+//let arrOne = strOne.compactMap{ $0 }
+//
+//print(arrOne)
+//
 print("----")
 
 // Enumerated

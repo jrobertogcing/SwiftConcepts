@@ -14,4 +14,10 @@ func move ()  throws {
 
 try move()
 
+do {
+    try move()
+} catch errorData.errorOne {
+    print("error")
+}
+
 
